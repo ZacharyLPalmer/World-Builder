@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/author.png</file>
+        <file>images/logo.png</file>
+        <file>images/bomb.png</file>
+        <file>images/robot.png</file>
+        <file>images/wall.png</file>
+        <file>images/arrow.png</file>
+        <file>images/x.png</file>
+        <file>images/undo.png</file>
+        <file>images/animate.png</file>
+        <file>images/stop.png</file>
+    </qresource>
+</RCC>
